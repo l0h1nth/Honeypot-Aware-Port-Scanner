@@ -1,0 +1,12 @@
+{
+    "target": "115.240.199.108",
+    "open_ports": [
+        {
+            "port": 8010,
+            "status": "open",
+            "response_time_ms": 171.974,
+            "banner": "HTTPS Service | CN=Unknown | Issuer=Unknown"
+        }
+    ],
+    "honeypot_suspected": "No honeypot behavior detected"
+}
